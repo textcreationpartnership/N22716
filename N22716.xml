@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:030023_0000_0FE3C69F506DEAD8"/>
-            <pb facs="tcp:030023_0001_0FE3C6A0F110EDA8" rendition="simple:additions"/>
+            <pb facs="unknown:030023_0000_0FE3C69F506DEAD8"/>
+            <pb facs="unknown:030023_0001_0FE3C6A0F110EDA8"
+                rendition="simple:additions"/>
             <p>THE HASTY-PUDDING, A POEM, IN THREE CANTOS. Written in Chambery in Savoy, Jan. <hi>1793.</hi>
             </p>
             <q>
@@ -123,13 +124,13 @@
             <p>NEW-YORK, Printed, from the Author's Manuscript, for FELLOWS &amp; ADAM. 1796.</p>
          </div>
          <div type="preface">
-            <pb n="iii" facs="tcp:030023_0002_0FE3C6A6875EC3B8"/>
+            <pb n="iii" facs="unknown:030023_0002_0FE3C6A6875EC3B8"/>
             <head>PREFACE</head>
             <p>A Simplicity in diet, whether it be con<g ref="char:EOLhyphen"/>ſidered with reference to the happineſs of individuals or the proſperity of a nation, is of more conſequence than we are apt to imagine. In recomending ſo important an object to the rational part of mankind, I wiſh it were in my power to do it in ſuch a man<g ref="char:EOLhyphen"/>ner as would be likely to gain their attention. I am ſenſible that it is one of thoſe ſubjects in which example has infinitely more power than the moſt convincing arguments or the higheſt charms of poetry. Goldſmith's DE<g ref="char:EOLhyphen"/>SERTED VILLAGE, though poſſeſſing theſe two advantages in a greater degree than any other work of the kind, has not prevented villages in England from being deſerted. The apparent intereſt of the rich individuals, who
-<pb facs="tcp:030023_0003_0FE3C6A8F9DC1E58"/>
+<pb facs="unknown:030023_0003_0FE3C6A8F9DC1E58"/>
 form the taſte as well as the laws in that coun<g ref="char:EOLhyphen"/>try, has been againſt him; and with that in<g ref="char:EOLhyphen"/>tereſt it has been vain to contend.</p>
             <p>The vicious habits which in this little piece I endeavour to combat, ſeem to me not ſo dif<g ref="char:EOLhyphen"/>ficult to cure. No claſs of people has any in<g ref="char:EOLhyphen"/>tereſt in ſupporting them; unleſs it be the intereſt which certain families may feel in vying with each other in ſumptuous enter<g ref="char:EOLhyphen"/>tainments. There may indeed be ſome in<g ref="char:EOLhyphen"/>ſtances of depraved appetites, which no argu<g ref="char:EOLhyphen"/>ments will conquer; but theſe muſt be rare. There are very few perſons but what would always prefer a plain diſh for themſelves, and would prefer it likewiſe for their gueſts, if there were no riſk of reputation in the caſe. This difficulty can only be removed by exam<g ref="char:EOLhyphen"/>ple; and the example ſhould proceed from thoſe whoſe ſituation enables them to take the lead in forming the manners of a nation. Perſons of this deſcription in America, I ſhould hope, are neither above nor below
-<pb n="v" facs="tcp:030023_0004_0FE3C6AE447B2010"/>
+<pb n="v" facs="unknown:030023_0004_0FE3C6AE447B2010"/>
 the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in language ſuited to the ſubject.</p>
             <p>Whether the manner I have choſen to ad<g ref="char:EOLhyphen"/>dreſs my argments to them be ſuch as to pro<g ref="char:EOLhyphen"/>miſe any ſucceſs is what I cannot decide<g ref="char:punc">▪</g> but I certainly had hopes of doing ſome good, or I ſhould not have taken the pains of putting ſo many rhymes together—The example of domeſtic virtues has doubtleſs a great effect. I only wiſh to rank SIMPLICITY of DIET a<g ref="char:EOLhyphen"/>mong the virtues. In that caſe I ſhould hope it will be cheriſhed and more eſteemed by o<g ref="char:EOLhyphen"/>thers than it is at preſent.</p>
             <closer>
@@ -140,7 +141,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
       <body>
          <div type="poem">
             <pb n="6"
-                facs="tcp:030023_0005_0FE3C6B1E4D3E6F8"
+                facs="unknown:030023_0005_0FE3C6B1E4D3E6F8"
                 rendition="simple:additions"/>
             <head>The Haſty-Pudding,</head>
             <div n="1" type="canto">
@@ -169,7 +170,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>And ſave the pains of blowing while I eat.</l>
                <l>Oh! could the ſmooth, the emblematic ſong</l>
                <l>
-                  <pb n="7" facs="tcp:030023_0006_0FE3C6B6E8C170F0"/>Flow like the genial juicies o'er my tongue,</l>
+                  <pb n="7" facs="unknown:030023_0006_0FE3C6B6E8C170F0"/>Flow like the genial juicies o'er my tongue,</l>
                <l>Could thoſe mild morſels in my numbers chime,</l>
                <l>And, as they roll in ſubſtance, roll in rhyme,</l>
                <l>No more thy aukward unpoetic name</l>
@@ -201,7 +202,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                      <desc>•</desc>
                   </gap>ame, unknown ſo long,</l>
                <l>
-                  <pb n="8" facs="tcp:030023_0007_0FE3C6BB2BB4C438"/>Riſe, like her labors, to the ſon of ſong,</l>
+                  <pb n="8" facs="unknown:030023_0007_0FE3C6BB2BB4C438"/>Riſe, like her labors, to the ſon of ſong,</l>
                <l>To her, to them, I'd conſecrate my lays,</l>
                <l>And blow her pudding with the breath of praiſe.</l>
                <l>If 'twas Oella, whom I ſang before,</l>
@@ -224,7 +225,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>No Yankey there can liſp the name of thee;</l>
                <l>The uncouth word, a libel on the town,</l>
                <l>
-                  <pb n="9" facs="tcp:030023_0008_0FE3C6C070E0CD58"/>Would call a proclamation from the crown.<note n="*" place="bottom">A certain king, at the time when this was worſen was publiſhing proclamations to prevent American princi<g ref="char:EOLhyphen"/>ples from being propagated in his country.</note>
+                  <pb n="9" facs="unknown:030023_0008_0FE3C6C070E0CD58"/>Would call a proclamation from the crown.<note n="*" place="bottom">A certain king, at the time when this was worſen was publiſhing proclamations to prevent American princi<g ref="char:EOLhyphen"/>ples from being propagated in his country.</note>
                </l>
                <l>For climes oblique, that fear the ſun's full rays,</l>
                <l>Chill'd in their fogs, exclude the generous maize;</l>
@@ -254,7 +255,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                   </gap> and eat thee by the name <hi>Suppawn.</hi>
                </l>
                <l>
-                  <pb n="10" facs="tcp:030023_0009_0FE3C6C3C3EA5990"/>All ſpurious appellations, void of truth;</l>
+                  <pb n="10" facs="unknown:030023_0009_0FE3C6C3C3EA5990"/>All ſpurious appellations, void of truth;</l>
                <l>I've better known thee from my earlieſt youth,</l>
                <l>Thy name is <hi>Hasty-Pudding!</hi> thus our ſires</l>
                <l>Were wont to greet thee fuming from their fires;</l>
@@ -280,7 +281,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>In troops of high-ſtrain'd wit, while gaudy prigs</l>
                <l>Compare thy nurſling man to pamper'd pigs;</l>
                <l>
-                  <pb n="11" facs="tcp:030023_0010_0FE3C6C907E531C8"/>With ſovereign ſcorn I treat the vulgar jeſt,</l>
+                  <pb n="11" facs="unknown:030023_0010_0FE3C6C907E531C8"/>With ſovereign ſcorn I treat the vulgar jeſt,</l>
                <l>Nor fear to ſhare thy bounties with the beaſt.</l>
                <l>What though the generous cow gives me to quaff</l>
                <l>The milk nutritious; am I then a calf?</l>
@@ -306,7 +307,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>And a long ſlice of bacon grace their ſide;</l>
                <l>
                   <pb n="12"
-                      facs="tcp:030023_0011_0FE3C6CC29D87A88"
+                      facs="unknown:030023_0011_0FE3C6CC29D87A88"
                       rendition="simple:additions"/>Not all the plate, how fam'd ſoe'er it be,</l>
                <l>Can pleaſe my palate like a bowl of thee.</l>
                <l>Some talk of Hoe-cake, fair Virginia's pride,</l>
@@ -330,7 +331,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>To that lov'd bowl my ſpoon by inſtinct flies.</l>
             </div>
             <div n="2" type="canto">
-               <pb n="13" facs="tcp:030023_0012_0FE3C6D1441F1978"/>
+               <pb n="13" facs="unknown:030023_0012_0FE3C6D1441F1978"/>
                <head>CANTO II.</head>
                <l>TO mix the food by vicious rules of art,</l>
                <l>To kill the ſtomach and to ſink the heart,</l>
@@ -355,7 +356,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>Yet may the ſimpleſt diſh ſome rules impart,</l>
                <l>For nature ſcorns not all the aids of art.</l>
                <l>
-                  <pb n="14" facs="tcp:030023_0013_0FE3C6D3AEE8BA60"/>Ev'n Haſty-Pudding, pureſt of all food,</l>
+                  <pb n="14" facs="unknown:030023_0013_0FE3C6D3AEE8BA60"/>Ev'n Haſty-Pudding, pureſt of all food,</l>
                <l>May ſtill be bad, indifferent, or good;</l>
                <l>As ſage experience the ſhort proceſs guides,</l>
                <l>Or want of ſkill, or want of care preſides.</l>
@@ -380,7 +381,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>Then guard your nurſling from each greedy foe,</l>
                <l>Th' inſidious worm, the all devouring crow.</l>
                <l>
-                  <pb n="15" facs="tcp:030023_0014_0FE3C6D8F990B1C0"/>A little aſhes, ſprinkled round the ſpire,</l>
+                  <pb n="15" facs="unknown:030023_0014_0FE3C6D8F990B1C0"/>A little aſhes, ſprinkled round the ſpire,</l>
                <l>Soon ſteep'd in rain, will bid the worm retire;</l>
                <l>The feather'd robber with his hungry maw</l>
                <l>Swift flies the field before your man of ſtraw,</l>
@@ -405,7 +406,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>Now the ſtrong foliage bears the ſtandards high,</l>
                <l>And ſhoots the tall top-gallants to the ſky;</l>
                <l>
-                  <pb n="16" facs="tcp:030023_0015_0FE3C6DDF75B66E8"/>The ſuckling ears their ſilky fringes bend,</l>
+                  <pb n="16" facs="unknown:030023_0015_0FE3C6DDF75B66E8"/>The ſuckling ears their ſilky fringes bend,</l>
                <l>And pregnant grown, their ſwelling coats diſtend;</l>
                <l>The loaded ſtalk, while ſtill the burthen grows,</l>
                <l>O'erhangs the ſpace that runs between the rows;</l>
@@ -430,7 +431,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>To boil the Haſty-Pudding; here we ſhine</l>
                <l>Superior far to tenants of the pine;</l>
                <l>
-                  <pb n="17" facs="tcp:030023_0016_0FE3C6E32D448428"/>This envy'd boon to man ſhall ſtill belong,</l>
+                  <pb n="17" facs="unknown:030023_0016_0FE3C6E32D448428"/>This envy'd boon to man ſhall ſtill belong,</l>
                <l>Unſhar'd by them in ſubſtance or in ſong.</l>
                <l>At laſt the cloſing ſeaſon browns the plain,</l>
                <l>And ripe October gathers in the grain;</l>
@@ -442,7 +443,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>And the new crop exterminates the old.</l>
             </div>
             <div n="3" type="canto">
-               <pb n="18" facs="tcp:030023_0017_0FE3C6E75E331440"/>
+               <pb n="18" facs="unknown:030023_0017_0FE3C6E75E331440"/>
                <head>CANTO III.</head>
                <l>THE days grow ſhort; but tho' the fallen ſun</l>
                <l>To the glad ſwain proclaims his day's work done,</l>
@@ -469,7 +470,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>She walks the round, and culls one favor'd bea</l>
                <l>Who leaps, the luſcious tribute to beſtow.</l>
                <l>
-                  <pb n="19" facs="tcp:030023_0018_0FE3C6EC4B90E830"/>Various the ſports, as are the wits and brains</l>
+                  <pb n="19" facs="unknown:030023_0018_0FE3C6EC4B90E830"/>Various the ſports, as are the wits and brains</l>
                <l>Of well-pleaſ'd laſſes and contending ſwains;</l>
                <l>Till the vaſt mound of corn is ſwept away,</l>
                <l>And he that gets the laſt ear, wins the day.</l>
@@ -494,7 +495,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>For rules there are, tho' ne'er unfolded yet,</l>
                <l>Nice rules and wiſe, how pudding ſhould be ate.</l>
                <l>
-                  <pb n="20" facs="tcp:030023_0019_0FE3C6EF1029B5E8"/>Some with molaſſes line the luſcious treat,</l>
+                  <pb n="20" facs="unknown:030023_0019_0FE3C6EF1029B5E8"/>Some with molaſſes line the luſcious treat,</l>
                <l>And mix, like Bards, the uſeful with the ſweet.</l>
                <l>A wholeſome diſh, and well deſerving praiſe,</l>
                <l>A great reſource in thoſe bleak wint'ry days,</l>
@@ -519,7 +520,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>Till ſhe in haſte ſome farther hints unfold,</l>
                <l>Well for the young, nor uſeleſs to the old.</l>
                <l>
-                  <pb n="21" facs="tcp:030023_0020_0FE3C6F45886EE40"/>Firſt in your bowl the milk abundant take,</l>
+                  <pb n="21" facs="unknown:030023_0020_0FE3C6F45886EE40"/>Firſt in your bowl the milk abundant take,</l>
                <l>Then drop with care along the ſilver lake</l>
                <l>Your flakes of pudding; theſe at firſt will hide</l>
                <l>Their little bulk beneath the ſwelling tide;</l>
@@ -544,7 +545,7 @@ the influence of truth and reaſon, when con<g ref="char:EOLhyphen"/>veyed in la
                <l>Theſe tuneful lips, that thouſand ſpoons have tried,</l>
                <l>With juſt preciſion could the point decide,</l>
                <l>
-                  <pb n="22" facs="tcp:030023_0021_0FE3C6F8EA1E6CC8"/>Tho' not in ſong; the muſe but poorly ſhines</l>
+                  <pb n="22" facs="unknown:030023_0021_0FE3C6F8EA1E6CC8"/>Tho' not in ſong; the muſe but poorly ſhines</l>
                <l>In cones, and cubes, and geometric lines.</l>
                <l>Yet the true form, as near as ſhe can tell,</l>
                <l>Is that ſmall ſection of a gooſe-egg-ſhell,</l>
